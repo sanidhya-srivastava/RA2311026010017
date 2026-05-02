@@ -64,6 +64,3 @@ A responsive React application built with **Material UI** that displays campus n
 
 ![](<screenshots/frontend (6).png>)
 
-### Demo Video
-
-https://github.com/sanidhya-srivastava/RA2311026010017/blob/master/screenshots/demo_video.mp4
